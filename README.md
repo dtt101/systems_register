@@ -38,3 +38,37 @@ You can also run your app inside IEx (Interactive Elixir) as:
 
     $ iex -S mix phx.server
 ```
+
+## Fields
+
+Technical
+Modern API?
+Hosting
+Type (on the commodity scale)
+Interface (browser/desktop)
+Age
+Updates
+TTR
+Supported?
+
+If bespoke/customised:
+Application framework
+Database
+Programming language
+Tests?
+
+
+Organisational
+Name
+Description
+Domain
+Responsibility
+Users (internal)
+Integrations
+Key User Journeys
+Plan
+Security
+Documentation
+Technical issues
+BIlling/contractual model
+Risks
